@@ -1,0 +1,9 @@
+torch==2.9.1
+torchvision
+numpy
+pandas
+scikit-learn
+pydantic
+streamlit
+langchain
+langchain-openai
