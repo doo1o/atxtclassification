@@ -1,0 +1,13 @@
+{
+  "vocab_size": 44323,
+  "num_classes": 4,
+  "pad_id": 0,
+  "max_len": 256,
+  "d_model": 384,
+  "nhead": 8,
+  "num_layers": 6,
+  "d_ff": 1536,
+  "dropout": 0.1,
+  "attn_dropout": 0.1,
+  "use_attention_pooling": true
+}
