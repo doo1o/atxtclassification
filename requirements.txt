@@ -7,3 +7,5 @@ pydantic
 streamlit
 langchain
 langchain-openai
+requests
+
